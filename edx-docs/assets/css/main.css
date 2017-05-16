@@ -2450,7 +2450,7 @@ body {
   line-height: 27.9px;
   line-height: 2.79rem; }
 
-body, .view--index .list--docs .item-audience__copy, .view--index .content__supplementary .info__copy, .view--index .content__main .introduction__copy, .footer--primary .copyright__copy, .view--index .list--docs .list--links .item-link__copy, .view--index .list--docs .list--links .item-link__updated-date {
+body, .view--index .list--docs .item-audience__copy, .view--index .content__supplementary .info__copy, .view--index .content__main .introduction__copy, .footer--primary .copyright__copy, .view--index .list--docs .list--links .item-link__copy, .item-text__copy, .view--index .list--docs .list--links .item-link__updated-date {
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; }
 
 .view--index .list--docs .item-audience__copy, .view--index .content__supplementary .info__copy {
@@ -2465,7 +2465,8 @@ body, .view--index .list--docs .item-audience__copy, .view--index .content__supp
   line-height: 27.9px;
   line-height: 2.79rem; }
 
-.footer--primary .copyright__copy, .view--index .list--docs .list--links .item-link__copy, .view--index .list--docs .list--links .item-link__updated-date {
+.footer--primary .copyright__copy, .view--index .list--docs .list--links .item-link__copy, .item-text__copy,
+  .view--index .list--docs .list--links .item-link__updated-date {
   font-size: 14px;
   font-size: 1.4rem;
   line-height: 21.7px;
@@ -2553,7 +2554,7 @@ strong, .view--index .list--docs .item-audience__title, .view--index .list--docs
   .view--index .list--docs .list--links .item-link__title {
     color: #299acd;
     margin-bottom: 5px; }
-  .view--index .list--docs .list--links .item-link__copy {
+  .view--index .list--docs .list--links .item-link__copy .item-text__copy {
     -webkit-transition: color 0.5s ease-in-out;
     -moz-transition: color 0.5s ease-in-out;
     transition: color 0.5s ease-in-out;
