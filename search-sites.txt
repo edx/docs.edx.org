@@ -1,0 +1,15 @@
+Sites to include:
+
+open-edx-proposals.readthedocs.io
+edx.readthedocs.io
+open.edx.org
+openedx.atlassian.net
+groups.google.com/d/msg/openedx-ops/*
+groups.google.com/d/msg/edx-code/*
+docs.edx.org
+github.com/openedx/*.rst
+github.com/edx/*.rst
+github.com/edx/*.md
+
+Sites to exclude (in Advanced):
+https://github.com/edx/edx-documentation/tree/master/en_us/*.rst
