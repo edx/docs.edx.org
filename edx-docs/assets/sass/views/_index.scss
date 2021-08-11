@@ -310,6 +310,19 @@
   .content__main {
     margin-bottom: ($baseline*2);
 
+    input.gsc-input {
+      height: 4.25rem!important;
+    }
+    button.gsc-search-button {
+      height: 5rem !important;
+      border: 1px solid $primary-color;
+      background-color: $primary-color;
+      border-radius: 0;
+      &:hover {
+        background: $primary-300-color;
+        border-color: transparent;
+      }
+    }
     .introduction__copy {
       @extend %t-copy-lead1;
 
