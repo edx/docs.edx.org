@@ -1,5 +1,5 @@
 ## Overview
-This is the Github-hosted and tied to the master branch that is behind
+This is the Github Pages-hosted repo behind
 http://docs.edx.org. 
 
 ## Search
@@ -9,4 +9,4 @@ The `search.html` page is powered by Google Programmable Search Engine and can b
 The current list of sites that should be configured there is in `search-sites.txt`.
 
 ## Release
-There is no extra release process and as soon as you merge to master, the changes will be reflected staright away on production. 
+There is no extra release process and as soon as you merge to master, the changes will be reflected straight away on production. 
