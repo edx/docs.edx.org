@@ -2715,6 +2715,16 @@ strong, .view--index .list--docs .item-audience__title, .view--index .list--docs
     background: white; }
   .view--index .content__main {
     margin-bottom: 40px; }
+  .view--index .content__main input.gsc-input {
+  height: 4.25rem !important; }
+  .view--index .content__main button.gsc-search-button {
+    height: 5rem !important;
+    border: 1px solid #00262b;
+    background-color: #00262b;
+    border-radius: 0; }
+  .view--index .content__main button.gsc-search-button:hover {
+    background: #2d494e;
+    border-color: transparent; }
     @media screen and (min-width: 500px) and (max-width: 760px) {
       .view--index .content__main .introduction__copy {
         font-size: 16px;
