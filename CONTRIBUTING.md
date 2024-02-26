@@ -1,7 +1,7 @@
 ## Contributing to the Open edX Documentation
 
  Your contributions are very welcome, and strongly encouraged! please open a pull request against master and we will review it. 
- Here is the documentation that describes our [contribution process](https://github.com/edx/edx-platform/blob/master/CONTRIBUTING.rst) in depth. 
+ Here is the documentation that describes our [contribution process](https://github.com/openedx/edx-platform/blob/master/CONTRIBUTING.rst) in depth. 
  
  
 

@@ -1,6 +1,6 @@
 ## Overview
-This is the Github Pages-hosted repo behind
-http://docs.edx.org. 
+
+This is the Github Pages-hosted repo behind <https://docs.edx.org>.
 
 ## Search
 

@@ -11,4 +11,4 @@ open.edx.org
 openedx.atlassian.net
 
 Sites to exclude (in Advanced):
-https://github.com/edx/edx-documentation/tree/master/en_us/*.rst
+https://github.com/openedx/edx-documentation/tree/master/en_us/*.rst
